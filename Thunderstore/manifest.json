@@ -1,0 +1,10 @@
+{
+    "name": "UltraYoshis",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/SelimGOZ/UltraYoshis",
+    "description": "Replaces the skulls rocket torch and soap and books with Baby Yoshis",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2305",
+        "EternalsTeam-PluginConfigurator-1.10.2"
+    ]
+}
