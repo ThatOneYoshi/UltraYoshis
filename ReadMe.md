@@ -21,8 +21,12 @@ Mod Features:
 
 # Photos
 
-![TheSkulls](https://raw.githubusercontent.com/SelimGoz/UltraYoshi/master/Thunderstore/Media/Red_Blue_Skulls.png)
-![Rocket](https://raw.githubusercontent.com/SelimGoz/UltraYoshi/master/Thunderstore/Media/Rocket_side.png)
-![RocketRide](https://raw.githubusercontent.com/SelimGoz/UltraYoshi/master/Thunderstore/Media/Rocket_Riding.png)
-![Torch](https://raw.githubusercontent.com/SelimGoz/UltraYoshi/master/Thunderstore/Media/Torch.png)
-![Soap](https://raw.githubusercontent.com/SelimGoz/UltraYoshi/master/Thunderstore/Media/Soap.png)
+![TheSkulls](https://raw.githubusercontent.com/SelimGOZ/UltraYoshis/main/Thunderstore/Media/Red_Blue_Skulls.png)
+
+![Rocket](https://raw.githubusercontent.com/SelimGOZ/UltraYoshis/main/Thunderstore/Media/Rocket_side.png)
+
+![RocketRide](https://raw.githubusercontent.com/SelimGOZ/UltraYoshis/main/Thunderstore/Media/Rocket_Riding.png)
+
+![Torch](https://raw.githubusercontent.com/SelimGOZ/UltraYoshis/main/Thunderstore/Media/Torch.png)
+
+![Soap](https://raw.githubusercontent.com/SelimGOZ/UltraYoshis/main/Thunderstore/Media/Soap.png)
