@@ -1,12 +1,12 @@
 # UltraYoshis
 
 Mod Features:
-* replaces Red Skull with PinkYoshi
-* replaces Blue Skull with BlueYoshi
-* replaces Soap with Yoshi
-* replaces Rockets with GreyYoshi
-* replaces Torch with GoldenYoshi
-* replaces Books with Yoshi
+* Replaces Red Skull with Pink Yoshi
+* Replaces Blue Skull with Blue Yoshi
+* Replaces Soap with Green Yoshi
+* Replaces Rockets with Grey Yoshi
+* Replaces Torch with Golden Yoshi
+* Replaces Books with Green Yoshi
 
 ### Models
 
